@@ -1,0 +1,15 @@
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\bin\Debug\net6.0\CSharpLinkedList.exe
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\bin\Debug\net6.0\CSharpLinkedList.deps.json
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\bin\Debug\net6.0\CSharpLinkedList.runtimeconfig.json
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\bin\Debug\net6.0\CSharpLinkedList.dll
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\bin\Debug\net6.0\CSharpLinkedList.pdb
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\obj\Debug\net6.0\CSharpLinkedList.csproj.AssemblyReference.cache
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\obj\Debug\net6.0\CSharpLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\obj\Debug\net6.0\CSharpLinkedList.AssemblyInfoInputs.cache
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\obj\Debug\net6.0\CSharpLinkedList.AssemblyInfo.cs
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\obj\Debug\net6.0\CSharpLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\obj\Debug\net6.0\CSharpLinkedList.dll
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\obj\Debug\net6.0\refint\CSharpLinkedList.dll
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\obj\Debug\net6.0\CSharpLinkedList.pdb
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\obj\Debug\net6.0\CSharpLinkedList.genruntimeconfig.cache
+C:\Users\mateu\RiderProjects\ConsoleApp1\CSharpLinkedList\obj\Debug\net6.0\ref\CSharpLinkedList.dll
